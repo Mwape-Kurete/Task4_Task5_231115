@@ -1,0 +1,26 @@
+
+h1, h2, h3, p{
+    padding: 0; 
+    margin: 0;
+}
+/*nav*/
+nav{
+    background-color: grey;
+    color: white;
+}
+
+.logo{
+    font-family: 'Press Start 2P', cursive;
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+}
+
+
+/*header*/ 
+header{
+    height: 600px;
+    background-image: url("../assets/maxresdefault.jpg");
+}
